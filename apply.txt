@@ -5,12 +5,12 @@ http://www.ustraveldocs.com/cn_zh/cn-niv-visarenew.asp
 --General procedure
 http://www.ustraveldocs.com/cn_zh/cn-niv-visaapply.asp
 
-
-
 -Application
 1. Get a new visa photo
+
 2. Fill DS-160 online
 重要提示： 如果您是续签或无需进行面谈，请选择“广州”。
+
 3. Application fee and schedule appointment
 https://cgifederal.secure.force.com/?language=English&country=China
 send2mqwu@gmail.com
@@ -22,16 +22,18 @@ W....8
 
 5.去中信递交如下材料, 信封不要封口,他们会检查.
 清单:
-1. Dropbox confirmation Letter
-1）在这封确认信里面 1. All Applicants：下面所有Yes打勾
+-1. Dropbox confirmation Letter
+--1 在这封确认信里面 1. All Applicants：下面所有Yes打勾
 不用填 2. Specific Applicants: 
-2）第二页 signature:后面签你自己的名字， Date:后面写上今天的日期
+--2 第二页 signature:后面签你自己的名字， Date:后面写上今天的日期
 
-2. DS160确认页
+-2. DS160确认页
 
-3. 邀请信
+-3 邀请信
 在Sincerely, 下面签我的名字
 
-4. 护照原件
-5. 签证照片一张 2寸见方
-6. 签证费收据 (rmb 1008)
+-4 护照原件
+
+-5 签证照片一张 2寸见方
+
+-6 签证费收据 (rmb 1008)
